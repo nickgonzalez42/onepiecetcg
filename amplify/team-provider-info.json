@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "onepiecetcgd090d81b": {}
+      },
+      "api": {
+        "onepiecetcg": {}
+      },
+      "storage": {
+        "test": {}
       }
     }
   }

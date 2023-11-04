@@ -1,0 +1,14 @@
+{
+  "resourceName": "test",
+  "policyUUID": "38c5ff68",
+  "bucketName": "onepiecetcg5913f86f95f94c50870f7380e2bd85ec",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

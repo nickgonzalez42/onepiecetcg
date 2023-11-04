@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "onepiecetcg",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2023-11-04T01:53:29.426Z"
+}
